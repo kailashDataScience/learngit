@@ -1,2 +1,4 @@
 def display():
-    print("5 + 4 is :",(5+4))
+    a = 15
+    b = 2
+    print("a + b is :",(a + b))
